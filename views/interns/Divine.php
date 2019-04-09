@@ -11,11 +11,11 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/damrygcd8/image/upload/v1554540269/fee989f9-7bb6-42e0-b95c-358826a91c38.jpg" alt="Mark Essien">
+                        <img src="https://res.cloudinary.com/damrygcd8/image/upload/v1554540269/fee989f9-7bb6-42e0-b95c-358826a91c38.jpg" alt="Okafor-udah Divine">
                         <h6>Okafor-udah Divine</h6>
                         <p>Front-end Web_Developer</p>
                         <ul class="list">
-                           <li><a href="<a href="https://twitter.com/crusoeanderson?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @crusoeanderson</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/crusoeanderson?ref_src=twsrc%5Etfw" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
                            <li><a href="https://github.com/Deeokafor" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
                            <li><a href="https://medium.com/@okafor.udahdivine" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
